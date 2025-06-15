@@ -1,0 +1,23 @@
+===========================================
+                BRJ FURNITURE STORES
+           Type: CUSTOMER PURCHASE
+Date & Time: 2024-08-07 09:35:06
+Purchaser: a
+-------------------------------------------
+Item ID: 1
+Manufacturer: HNICorporation
+Product: BunkBed
+Quantity: 2
+Price: $400.00
+-------------------------------------------
+Item ID: 3
+Manufacturer: Achhamfurniture
+Product: SleeperSofa
+Quantity: 2
+Price: $200.00
+-------------------------------------------
+Total Amount (excluding shipping): $1356.00
+Shipping Cost: $2.00
+Final Amount After Shipping Cost & VAT: $1358.00
+===========================================
+

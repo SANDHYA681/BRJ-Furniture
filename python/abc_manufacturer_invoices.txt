@@ -1,0 +1,17 @@
+===========================================
+                BRJ FURNITURE STORES
+           Type: MANUFACTURER PURCHASE
+Date & Time: 2024-08-07 09:37:18
+Purchaser: abc
+-------------------------------------------
+Item ID: 1
+Manufacturer: HNICorporation
+Product: BunkBed
+Quantity: 2
+Price: $400.00
+-------------------------------------------
+Total Amount (excluding shipping): $904.00
+Shipping Cost: $3.00
+Final Amount After Shipping Cost & VAT: $907.00
+===========================================
+
