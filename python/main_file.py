@@ -1,3 +1,4 @@
+#final codee
 from furn_operation import buy_furniture, display_table,get_furniture_info
 
 def main():
@@ -32,7 +33,7 @@ def main():
             process_purchase(is_customer=False)
         
         elif user_choice == 4:
-            print("Thank you for using the Furniture Management System. Goodbye!")
+            print("Thankyou for using the Furniture Management System. Goodbye!")
             break
         
         print("Do you want to Continue?")
